@@ -1,0 +1,15 @@
+.bigwrappa {
+    margin: 40px;
+    width: 100%;
+    max-width: 800px;
+    background-color: transparent;
+    position: relative !important;
+    display: flex !important;
+    height: 100%;
+
+}
+
+body {
+
+    background-color: gray;
+    }
