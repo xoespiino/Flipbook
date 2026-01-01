@@ -47,7 +47,7 @@
   transform: rotateY(0);
   user-select: none;
   transition: transform 0.9s ease;
-  border: dashed 1px hotpink;
+  border: none;
 
 }
 .c-flipbook__page.is-active {
