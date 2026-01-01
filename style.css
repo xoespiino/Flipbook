@@ -2,7 +2,7 @@
     margin: 40px;
     width: 100%;
     max-width: 800px;
-    background-color: transparent;
+    background-color: transparent !important;
     position: relative !important;
     display: flex !important;
     height: 100%;
