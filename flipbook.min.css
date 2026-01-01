@@ -42,7 +42,7 @@
   overflow: hidden;
   position: absolute;
   width: 50%;
-  background: #efeef4;
+  background: transparent;
   backface-visibility: hidden;
   transform: rotateY(0);
   user-select: none;
