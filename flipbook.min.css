@@ -3,11 +3,12 @@
   transform-style: preserve-3d;
   opacity: 1;
   height: 200px;
-  position: absolute;
   left: 0;
   transition: left 0.7s;
   top: 0;
   background: transparent !important;
+  position: relative;
+  margin: 0 auto;
 }
 .c-flipbook.at-front-cover {
   left: -25%;
@@ -155,6 +156,13 @@ html, body {
   background: transparent !important;
   margin: 0;
   padding: 0;
+}
+.bigwrappa {
+  background: transparent !important;
+}
+.bigwrappa,
+.bigwrappa * {
+  background-color: transparent !important;
 }
 @supports (transition: transform 0.9s ease) and (not (-ms-ime-align: auto)) {
   .c-flipbook__page {
