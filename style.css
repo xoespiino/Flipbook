@@ -8,15 +8,6 @@
     height: 100%;
 }
 
-.c-flipbook,
-.c-flipbook__page {
-  background: transparent !important;
-}
-
-.c-flipbook * {
-  background: transparent !important;
-}
-
 body {
 
     background-color: red;
