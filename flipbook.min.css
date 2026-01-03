@@ -151,6 +151,11 @@
   justify-content: center;
   width: 100%;
 }
+body {
+  background: transparent !important;
+  margin: 0;
+  padding: 0;
+}
 @supports (transition: transform 0.9s ease) and (not (-ms-ime-align: auto)) {
   .c-flipbook__page {
     transition: transform 0.9s ease;
